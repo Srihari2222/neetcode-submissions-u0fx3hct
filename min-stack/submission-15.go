@@ -1,0 +1,3 @@
+func solution() {{
+    // min-stack
+}}
