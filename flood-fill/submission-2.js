@@ -1,0 +1,3 @@
+function solution() {{
+    // flood-fill
+}}
