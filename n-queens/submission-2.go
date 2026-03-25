@@ -1,0 +1,3 @@
+func solution() {{
+    // n-queens
+}}
