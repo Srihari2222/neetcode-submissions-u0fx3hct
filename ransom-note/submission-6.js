@@ -1,0 +1,3 @@
+function solution() {{
+    // ransom-note
+}}
